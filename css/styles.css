@@ -14,8 +14,8 @@
 
 .logo img {
     width: 33%;
-    border: 3px solid white;
-    border-radius: 50px;
+    border: 2% solid white;
+    border-radius: 50%;
 }
 
 .navbar {
@@ -36,7 +36,7 @@
 
 .nav-list li {
     list-style: none;
-    padding: 30px;
+    padding: 5%;
 
 }
 
@@ -52,14 +52,14 @@
 .rightNav {
     width: 50%;
     text-align: right;
-    padding: 0 35px;
+    padding: 0% 5%;
 }
 
 #search {
-    padding: 5px;
-    font-size: 17px;
-    border: 2px solid grey;
-    border-radius: 9px;
+    padding: 1%;
+    font-size: 80%;
+    border: 0.1% solid grey;
+    border-radius: 10px;
 }
 
 .background {
@@ -97,14 +97,14 @@
 
 .secondHalf img {
     width: 70%;
-    border: 4px solid white;
-    border-radius: 150px;
+    border: 2% solid white;
+    border-radius: 50%;
     display: block;
     margin: auto;
 }
 
 .text-big {
-    font-size: 40px;
+    font-size: 100%;
 }
 
 .text-small {
@@ -113,7 +113,7 @@
 
 .btn {
     padding: 8px 20px;
-    margin: 7px 0;
+    margin: 2% 0%;
     border: 2px solid white;
     border-radius: 8px;
     background: none;
@@ -122,14 +122,14 @@
 }
 
 .btn-sm {
-    padding: 6px 10px;
+    padding: 0.8% 5%;
     vertical-align: middle;
 }
 
 
 
 .image2 img {
-    width: 2%;
+    width: 15%;
     border: 1px solid whitesmoke;
     border-radius: 150px;
    
@@ -143,7 +143,7 @@
 }
 .contactme {
 
-    text-align: center;
+    text-align: left;
     font-size: 25px;
 
 }
