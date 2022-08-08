@@ -129,7 +129,7 @@
 
 
 .image2 img {
-    width: 30px;
+    width: 2%;
     border: 1px solid whitesmoke;
     border-radius: 150px;
    
@@ -138,9 +138,7 @@
 
 .image2 {
     width: 90%;
-    display: block;
-    margin-left: 600px;
-    margin-right: 15px;
+    display: flex;
 
 }
 .contactme {
